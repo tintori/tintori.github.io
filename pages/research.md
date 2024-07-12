@@ -4,3 +4,7 @@ title: Research
 category: Research
 permalink: /research
 ---
+
+All living cells are continuously challenged by exogenous, endogenous, and spontaneous DNA damage. While our conserved DNA damage response pathways keep us safe broadly, individuals carry natural variants in these mechanisms that can have profound consequences for cell biology, health, and genome evolution. This natural variation in DNA damage response, most commonly thought about in the context of genetic predisposition to cancer, is the focus of our lab. We use the nematode <i>C. elegans</i> and its relatives to investigate the differences between naturally mutagen-tolerant worms and naturally mutagen-sensitive worms. Our methods span the genome, organism, and population scales.
+
+We have developed a nematode population growth rate assay that allows us to quantify heritable phenotypic variation between wild isolates -- worms of the same species that are genetically diverse, but each fit and viable in the wild. Their phenotypic variation is subtle, but when compounded during population growth over generations we are able to detect strong fitness differences. We have used this technique to identify outliers for sensitivity to several types of DNA damaging agents in wild isolates from around the world, including some from the radioactive landscapes of the Chornobyl Exclusion Zone. We are now expanding our studies of these strains to learn more about their causative large effect alleles, polygenic traits, life history features, and genome stability dynamics.
