@@ -8,10 +8,17 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Home',  url: 'home'}
-- {name: 'Research', url: 'research'}
-- {name: 'People',       url: 'people'}
-- {name: 'Publications',      url: 'publications'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'Research',  url: 'research'}
+- {name: 'People',  url: 'people'}
+- {name: 'Publications',  url: 'publications'}
+- {name: 'Contact', url: 'contact'}
+
+bar:
+- {name: 'Home',  url: 'home'}
+- {name: 'Research',  url: 'research'}
+- {name: 'People',  url: 'people'}
+- {name: 'Publications',  url: 'publications'}
+- {name: 'Contact', url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 #social:
@@ -23,12 +30,12 @@ menu:
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
-pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+#pagination:
+#  next_page: 'Newer'
+#  previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+#sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy...'
+#related_posts: 'You may also enjoy...'
 
 post_date_prefix: 'Written on'
