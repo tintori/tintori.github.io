@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-09-03T17:46:19-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Tintori Lab</title><subtitle></subtitle><author><name></name></author><entry><title type="html">About</title><link href="http://localhost:4000/about" rel="alternate" type="text/html" title="About" /><published>2024-04-04T00:00:00-04:00</published><updated>2024-04-04T00:00:00-04:00</updated><id>http://localhost:4000/about</id><content type="html" xml:base="http://localhost:4000/about"><![CDATA[<p>Welcome! We opened shop in Fordham’s Biology department in the fall of 2024, where we are using quantitative and molecular genetics approaches in the nematode to investigate natural variation in DNA damage response.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-03-03T22:21:26-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Tintori Lab</title><subtitle></subtitle><author><name></name></author><entry><title type="html">About</title><link href="http://localhost:4000/about" rel="alternate" type="text/html" title="About" /><published>2024-04-04T00:00:00-04:00</published><updated>2024-04-04T00:00:00-04:00</updated><id>http://localhost:4000/about</id><content type="html" xml:base="http://localhost:4000/about"><![CDATA[<p>Welcome! We opened shop in Fordham’s Biology department in the fall of 2024, where we are using quantitative and molecular genetics approaches in the nematode to investigate natural variation in DNA damage response.</p>
 
 <p>Feel free to reach out if you are interested in joining our group.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Welcome! We opened shop in Fordham’s Biology department in the fall of 2024, where we are using quantitative and molecular genetics approaches in the nematode to investigate natural variation in DNA damage response.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/20240517_NYAPG.jpg" /><media:content medium="image" url="http://localhost:4000/20240517_NYAPG.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Research</title><link href="http://localhost:4000/research" rel="alternate" type="text/html" title="Research" /><published>2023-05-05T00:00:00-04:00</published><updated>2023-05-05T00:00:00-04:00</updated><id>http://localhost:4000/research</id><content type="html" xml:base="http://localhost:4000/research"><![CDATA[<p>All living cells are continuously challenged by exogenous, endogenous, and spontaneous DNA damage. While our conserved DNA damage response pathways keep us safe broadly, individuals carry natural variants in these mechanisms that can have profound consequences for cell biology, health, and genome evolution. This natural variation in DNA damage response, most commonly thought about in the context of genetic predisposition to cancer, is the focus of our lab. We use the nematode <i>C. elegans</i> and its relatives to investigate the differences between naturally mutagen-tolerant worms and naturally mutagen-sensitive worms. Our methods span the genome, organism, and population scales.</p>
 
@@ -18,10 +18,19 @@
 <div class="image-gallery">
 
 <figure>
+	<img src="/assets/img/lab_members/tori_square.jpg" alt="Tori Kenney" style="width:90%; min-width:100px" />   <!--   style="width:200px"-->
+	<figcaption class="name" style="font-weight:bold; text-align:center">Tori Kenney</figcaption>
+	<figcaption class="status" style="text-align:center">MS student</figcaption>
+	<figcaption class="email" style="text-align:center; font-size:9pt">vek · fordham · edu</figcaption>
+	<figcaption class="keywords" style="font-style:italic; text-align:center"></figcaption>  <!--  display:block -->
+</figure>
+
+
+<figure>
 	<img src="/assets/img/lab_members/edeline_sq.jpg" alt="Edeline Jung" style="width:90%; min-width:100px" />   <!--   style="width:200px"-->
 	<figcaption class="name" style="font-weight:bold; text-align:center">Edeline Jung</figcaption>
-	<figcaption class="status" style="text-align:center">BSc '29</figcaption>
-	<figcaption class="email" style="text-align:center; font-size:9pt">ebj1*fordham*edu</figcaption>
+	<figcaption class="status" style="text-align:center">BSc student</figcaption>
+	<figcaption class="email" style="text-align:center; font-size:9pt">ebj1 · fordham · edu</figcaption>
 	<figcaption class="keywords" style="font-style:italic; text-align:center"></figcaption>  <!--  display:block -->
 </figure>
 
@@ -29,8 +38,8 @@
 <figure>
 	<img src="/assets/img/lab_members/fletcher_sq.jpg" alt="Fletcher Roberts" style="width:90%; min-width:100px" />   <!--   style="width:200px"-->
 	<figcaption class="name" style="font-weight:bold; text-align:center">Fletcher Roberts</figcaption>
-	<figcaption class="status" style="text-align:center">Lab technician</figcaption>
-	<figcaption class="email" style="text-align:center; font-size:9pt">rroberts28*fordham*edu</figcaption>
+	<figcaption class="status" style="text-align:center">PhD candidate</figcaption>
+	<figcaption class="email" style="text-align:center; font-size:9pt">rroberts28 · fordham · edu</figcaption>
 	<figcaption class="keywords" style="font-style:italic; text-align:center"></figcaption>  <!--  display:block -->
 </figure>
 
@@ -38,8 +47,8 @@
 <figure>
 	<img src="/assets/img/lab_members/victoria_sq1.png" alt="Victoria Serra" style="width:90%; min-width:100px" />   <!--   style="width:200px"-->
 	<figcaption class="name" style="font-weight:bold; text-align:center">Victoria Serra</figcaption>
-	<figcaption class="status" style="text-align:center">BSc '26, MS '27</figcaption>
-	<figcaption class="email" style="text-align:center; font-size:9pt">victoria.serra*fordham*edu</figcaption>
+	<figcaption class="status" style="text-align:center">BSc and MS student</figcaption>
+	<figcaption class="email" style="text-align:center; font-size:9pt">victoria.serra · fordham · edu</figcaption>
 	<figcaption class="keywords" style="font-style:italic; text-align:center"></figcaption>  <!--  display:block -->
 </figure>
 
@@ -47,8 +56,8 @@
 <figure>
 	<img src="/assets/img/lab_members/gresia_1_sq_br.jpg" alt="Gresia Cervantes" style="width:90%; min-width:100px" />   <!--   style="width:200px"-->
 	<figcaption class="name" style="font-weight:bold; text-align:center">Gresia Cervantes</figcaption>
-	<figcaption class="status" style="text-align:center">MS '26</figcaption>
-	<figcaption class="email" style="text-align:center; font-size:9pt">glc6*fordham*edu</figcaption>
+	<figcaption class="status" style="text-align:center">MS student</figcaption>
+	<figcaption class="email" style="text-align:center; font-size:9pt">glc6 · fordham · edu</figcaption>
 	<figcaption class="keywords" style="font-style:italic; text-align:center"></figcaption>  <!--  display:block -->
 </figure>
 
@@ -56,8 +65,8 @@
 <figure>
 	<img src="/assets/img/lab_members/delaney_square.jpg" alt="Delaney Espinoza" style="width:90%; min-width:100px" />   <!--   style="width:200px"-->
 	<figcaption class="name" style="font-weight:bold; text-align:center">Delaney Espinoza</figcaption>
-	<figcaption class="status" style="text-align:center">MS '26</figcaption>
-	<figcaption class="email" style="text-align:center; font-size:9pt">de23*fordham*edu</figcaption>
+	<figcaption class="status" style="text-align:center">PhD candidate</figcaption>
+	<figcaption class="email" style="text-align:center; font-size:9pt">de23 · fordham · edu</figcaption>
 	<figcaption class="keywords" style="font-style:italic; text-align:center"></figcaption>  <!--  display:block -->
 </figure>
 
@@ -65,8 +74,8 @@
 <figure>
 	<img src="/assets/img/lab_members/shannon_sq.jpg" alt="Shannon Dooher" style="width:90%; min-width:100px" />   <!--   style="width:200px"-->
 	<figcaption class="name" style="font-weight:bold; text-align:center">Shannon Dooher</figcaption>
-	<figcaption class="status" style="text-align:center">BSc '27</figcaption>
-	<figcaption class="email" style="text-align:center; font-size:9pt">sdooher*fordham*edu</figcaption>
+	<figcaption class="status" style="text-align:center">BSc student</figcaption>
+	<figcaption class="email" style="text-align:center; font-size:9pt">sdooher · fordham · edu</figcaption>
 	<figcaption class="keywords" style="font-style:italic; text-align:center"></figcaption>  <!--  display:block -->
 </figure>
 
@@ -74,8 +83,8 @@
 <figure>
 	<img src="/assets/img/lab_members/sadie_square.jpg" alt="Sadie Olsen" style="width:90%; min-width:100px" />   <!--   style="width:200px"-->
 	<figcaption class="name" style="font-weight:bold; text-align:center">Sadie Olsen</figcaption>
-	<figcaption class="status" style="text-align:center">BSc '25, MS '26</figcaption>
-	<figcaption class="email" style="text-align:center; font-size:9pt">solsen7*fordham*edu</figcaption>
+	<figcaption class="status" style="text-align:center">BSc and MS student</figcaption>
+	<figcaption class="email" style="text-align:center; font-size:9pt">solsen7 · fordham · edu</figcaption>
 	<figcaption class="keywords" style="font-style:italic; text-align:center"></figcaption>  <!--  display:block -->
 </figure>
 
@@ -83,8 +92,8 @@
 <figure>
 	<img src="/assets/img/lab_members/ST_sq.jpg" alt="Sophie Tintori" style="width:90%; min-width:100px" />   <!--   style="width:200px"-->
 	<figcaption class="name" style="font-weight:bold; text-align:center">Sophie Tintori</figcaption>
-	<figcaption class="status" style="text-align:center">Principle Investigator</figcaption>
-	<figcaption class="email" style="text-align:center; font-size:9pt">tintori*fordham*edu</figcaption>
+	<figcaption class="status" style="text-align:center">Principle investigator</figcaption>
+	<figcaption class="email" style="text-align:center; font-size:9pt">tintori · fordham · edu</figcaption>
 	<figcaption class="keywords" style="font-style:italic; text-align:center"></figcaption>  <!--  display:block -->
 </figure>
 
